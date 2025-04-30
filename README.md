@@ -1,9 +1,9 @@
-# Alt Mobility E-commerce Data Analysis
+# Alt Mobility Data Analyst Intern Assessment
 
 This repository contains SQL analysis of e-commerce data for Alt Mobility. The analysis focuses on understanding order patterns, customer behavior, payment transactions, and customer retention.
 
 ## 📌 Table of Contents
-- [Alt Mobility E-commerce Data Analysis](#alt-mobility-e-commerce-data-analysis)
+- [Alt Mobility Data Analyst Intern Assessment](#alt-mobility-data-analyst-intern-assessment)
   - [📌 Table of Contents](#-table-of-contents)
   - [📖 Project Overview](#-project-overview)
   - [data Overview](#data-overview)
