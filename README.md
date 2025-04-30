@@ -136,30 +136,30 @@ This visualization allows us to see:
 ### Customer Behavior Patterns
 
 - **Customer Order Frequency**  
-  ![Customer Order Frequency](images/Customer Order Frequency.png)
+  ![Customer Order Frequency](images/Customer%20Order%20Frequency.png)
 - **Customer Segmentation**  
-  ![Customer Segmentation](images/Customer Segmentation.png)
+  ![Customer Segmentation](images/Customer%20Segmentation.png)
 - **Customer Purchase Timeline**  
-  ![Customer Purchase Timeline](images/Customer Purchase Timeline.png)
+  ![Customer Purchase Timeline](images/Customer%20Purchase%20Timeline.png)
 - **Top Customers by Spend**  
-  ![Top Customers by Spend](images/Top Customers by Spend.png)
+  ![Top Customers by Spend](images/Top%20Customers%20by%20Spend.png)
 
 ### Payment Performance
 
 - **Payment Status Overview**  
-  ![Payment Status Overview](images/Payment Status Overview.png)
+  ![Payment Status Overview](images/Payment%20Status%20Overview%20.png)
 - **Payment Method Analysis**  
-  ![Payment Method Analysis](images/Payment Method Analysis.png)
+  ![Payment Method Analysis](images/Payment%20Method%20Analysis.png)
 - **Payment Success Rate by Method**  
-  ![Payment Success Rate by Method](images/Payment Success Rate by Method.png)
+  ![Payment Success Rate by Method](images/Payment%20Success%20Rate%20by%20Method%20.png)
 - **Monthly Payment Success Trend**  
-  ![Monthly Payment Success Trend](images/Monthly Payment Success Trend.png)
+  ![Monthly Payment Success Trend](images/Monthly%20Payment%20Success%20Trend.png)
 
 ### Order Details Report
 - **Comprehensive Order Details Report**  
-  ![Comprehensive Order Details Report](images/Comprehensive Order Details Report.png)
+  ![Comprehensive Order Details Report](images/Comprehensive%20Order%20Details%20Report.png)
 - **Order Summary Metrics**  
-  ![Order Summary Metrics](images/Order Summary Metrics.png)
+  ![Order Summary Metrics](images/Order%20Summary%20Metrics.png)
 
 ### Obervation of Customer Retention Analysis
 1. How well each cohort retains customers over time
