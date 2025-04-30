@@ -24,6 +24,24 @@ This repository contains SQL analysis of e-commerce data for Alt Mobility. The a
   - [How to Use This Repository](#how-to-use-this-repository)
   - [Tools Used](#tools-used)
   - [Contact](#contact)
+  - [🔍 Key Findings](#-key-findings)
+    - [📊 Order and Sales Insights](#-order-and-sales-insights)
+      - [**Order Status Distribution**](#order-status-distribution)
+      - [**Sales by Order Status**](#sales-by-order-status)
+      - [**Year-over-Year Growth**](#year-over-year-growth)
+    - [🏆 Customer Behavior Patterns](#-customer-behavior-patterns)
+      - [**Customer Order Frequency**](#customer-order-frequency)
+      - [**Customer Segmentation**](#customer-segmentation)
+      - [**Customer Purchase Timeline**](#customer-purchase-timeline)
+      - [**Top Customers by Spend**](#top-customers-by-spend)
+    - [💰 Payment Performance](#-payment-performance)
+      - [**Payment Status Overview**](#payment-status-overview)
+      - [**Payment Method Analysis**](#payment-method-analysis)
+      - [**Payment Success Rate by Method**](#payment-success-rate-by-method)
+      - [**Monthly Payment Success Trend**](#monthly-payment-success-trend)
+    - [📄 Order Details Report](#-order-details-report)
+      - [**Comprehensive Order Lifecycle Analysis**](#comprehensive-order-lifecycle-analysis)
+      - [**Order Summary Metrics**](#order-summary-metrics)
 
 
 
@@ -121,6 +139,7 @@ This visualization allows us to see:
 
 ## Key Findings
 
+In this Findings  you will find the extract details from Sql Queires for each task 
 ### Order and Sales Insights
 - **Order Status Distribution**
   
@@ -158,7 +177,7 @@ This visualization allows us to see:
 ### Order Details Report
 - **Comprehensive Order Details Report**  
   ![Comprehensive Order Details Report](images/Comprehensive%20Order%20Details%20Report.png)
-- **Order Summary Metrics**  
+- **Order Summary Metrics
   ![Order Summary Metrics](images/Order%20Summary%20Metrics.png)
 
 ### Obervation of Customer Retention Analysis
@@ -212,4 +231,113 @@ Based on your Customer Retention Analysis Dashboard, here are some recommendatio
 
 ## Contact
 
-For questions regarding this analysis, please contact 
+For questions regarding this analysis, please contact shaikallabakash307@gmail.com
+
+## 🔍 Key Findings  
+
+This section presents **data-driven insights extracted from SQL queries** to analyze **order fulfillment, customer behavior, payment transactions, and retention trends**.
+
+---
+
+### 📊 Order and Sales Insights  
+
+Understanding order status and sales trends helps evaluate revenue generation and fulfillment efficiency.  
+
+#### **Order Status Distribution**  
+- Analyzes **how orders are processed** (Delivered, Pending, Canceled).  
+- Identifies potential bottlenecks in **order fulfillment**.  
+- Helps improve customer satisfaction by minimizing **delays and cancellations**.  
+
+📷 ![Order Status Distribution](images/Order%20Status%20Distribution.png)
+
+#### **Sales by Order Status**  
+- Tracks how **different order statuses contribute to overall revenue**.  
+- Provides insights into **refund rates and revenue loss** due to cancellations.  
+
+📷 ![Sales by Order Status](images/Sales%20by%20Order%20Status.png)
+
+#### **Year-over-Year Growth**  
+- Measures **business performance trends** over time.  
+- Helps forecast **seasonal demand and revenue fluctuations**.  
+
+📷 ![Year-over-Year Growth](images/Year-over-Year%20Growth.png)
+
+---
+
+### 🏆 Customer Behavior Patterns  
+
+Understanding how customers interact with the platform helps optimize **marketing strategies and retention efforts**.  
+
+#### **Customer Order Frequency**  
+- Shows how often customers place orders.  
+- Helps segment **one-time buyers vs. repeat customers**.  
+
+📷 ![Customer Order Frequency](images/Customer%20Order%20Frequency.png)
+
+#### **Customer Segmentation**  
+- Categorizes customers into **low, medium, and high spenders**.  
+- Useful for personalized promotions and loyalty incentives.  
+
+📷 ![Customer Segmentation](images/Customer%20Segmentation.png)
+
+#### **Customer Purchase Timeline**  
+- Tracks **time intervals between repeat purchases**.  
+- Helps predict future engagement and potential churn rates.  
+
+📷 ![Customer Purchase Timeline](images/Customer%20Purchase%20Timeline.png)
+
+#### **Top Customers by Spend**  
+- Identifies the **highest revenue-generating customers**.  
+- Helps prioritize engagement strategies for **valuable customer groups**.  
+
+📷 ![Top Customers by Spend](images/Top%20Customers%20by%20Spend.png)
+
+---
+
+### 💰 Payment Performance  
+
+Payment analytics help understand **transaction success rates and customer payment preferences**.  
+
+#### **Payment Status Overview**  
+- Compares **successful vs. failed transactions** to improve payment processing.  
+- Identifies issues related to **payment gateway reliability**.  
+
+📷 ![Payment Status Overview](images/Payment%20Status%20Overview.png)
+
+#### **Payment Method Analysis**  
+- Determines which payment methods are **most used and preferred by customers**.  
+- Helps businesses optimize **checkout experience**.  
+
+📷 ![Payment Method Analysis](images/Payment%20Method%20Analysis.png)
+
+#### **Payment Success Rate by Method**  
+- Tracks **failure vs. success rates** across payment methods (Credit Card, PayPal, etc.).  
+- Improves customer experience by **reducing transaction issues**.  
+
+📷 ![Payment Success Rate by Method](images/Payment%20Success%20Rate%20by%20Method.png)
+
+#### **Monthly Payment Success Trend**  
+- Monitors fluctuations in **payment success rates over time**.  
+- Helps detect payment processing failures **in specific months**.  
+
+📷 ![Monthly Payment Success Trend](images/Monthly%20Payment%20Success%20Trend.png)
+
+---
+
+### 📄 Order Details Report  
+
+A **comprehensive report** provides deep insights into customer transactions, payments, and fulfillment trends.  
+
+#### **Comprehensive Order Lifecycle Analysis**  
+- Shows how orders progress from **placement to payment completion**.  
+- Helps track **order-to-payment relationships**.  
+
+📷 ![Comprehensive Order Details Report](images/Comprehensive%20Order%20Details%20Report.png)
+
+#### **Order Summary Metrics**  
+- Displays **overall performance insights** on orders, revenue, and fulfillment trends.  
+- Aids in **business decision-making** based on real data.  
+
+📷 ![Order Summary Metrics](images/Order%20Summary%20Metrics.png)
+
+---
