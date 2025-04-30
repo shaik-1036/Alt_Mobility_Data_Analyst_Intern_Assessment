@@ -122,14 +122,15 @@ This visualization allows us to see:
 ## Key Findings
 
 ### Order and Sales Insights
-- **Order Status Distribution**  
-  ![Order Status Distribution](images/Order Status Distribution.png)
+- **Order Status Distribution**
+  
+  ![Order Status Distribution](images/Order%20Status%20Distribution.png)
 - **Sales by Order Status**  
-  ![Year-over-Year Growth](images/Year-over-Year Growth.png)
+  ![Year-over-Year Growth](images/Sales%20by%20Order%20Status.png)
   - **Order Status Distribution**  
-  ![Order Status Distribution](images/Order Status Distribution.png)
+  ![Order Status Distribution](images/Order%20Status%20Distribution.png)
 - **Year-over-Year Growth**  
-  ![Year-over-Year Growth](images/Year-over-Year Growth.png)
+  ![Year-over-Year Growth](images/Year-over-Year%20Growth.png)
 
 
 ### Customer Behavior Patterns
